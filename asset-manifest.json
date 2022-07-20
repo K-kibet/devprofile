@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/static/js/main.a816048c.js",
+    "static/media/microverse.png": "/static/media/microverse.f7d79cafa61d98362942.png",
+    "static/media/truelancer.png": "/static/media/truelancer.293ede545d619297aa16.png",
+    "static/media/toptal.png": "/static/media/toptal.4ab7264b0f5b6d0e898a.png",
+    "static/media/crossover.png": "/static/media/crossover.606d4b46e6eca8a1ded7.png",
+    "index.html": "/index.html",
+    "main.a816048c.js.map": "/static/js/main.a816048c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a816048c.js"
+  ]
+}
